@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Rectangle" fill="#222222" fill-opacity="0.448001" fill-rule="evenodd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M 56 294 L 456 294 L 456 234 C 456 225.715729 449.284271 219 441 219 L 71 219 C 62.715729 219 56 225.715729 56 234 Z"/>
+        <linearGradient id="linearGradient1" x1="58" y1="232.5" x2="454" y2="232.5" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fe968d" stop-opacity="1"/>
+            <stop offset="0.254524" stop-color="#fffc67" stop-opacity="1"/>
+            <stop offset="0.5043" stop-color="#89f94f" stop-opacity="1"/>
+            <stop offset="0.753605" stop-color="#41b0f6" stop-opacity="1"/>
+            <stop offset="1" stop-color="#ff8ec6" stop-opacity="1"/>
+        </linearGradient>
+        <path id="Rectangle-copy" fill="url(#linearGradient1)" fill-opacity="0.646166" fill-rule="evenodd" stroke="none" d="M 58 244 L 454 244 L 454 232.5 C 454 226.148712 448.851288 221 442.5 221 L 69.5 221 C 63.148727 221 58 226.148712 58 232.5 Z"/>
+        <path id="Rounded-Rectangle" fill="#1a1a1a" fill-rule="evenodd" stroke="none" d="M 244 232.5 C 244 235.537567 246.462433 238 249.5 238 L 261.5 238 C 264.537567 238 267 235.537567 267 232.5 C 267 229.462433 264.537567 227 261.5 227 L 249.5 227 C 246.462433 227 244 229.462433 244 232.5 Z"/>
+    </g>
+</svg>
